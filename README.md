@@ -1,2 +1,4 @@
 # hello-world
-just the first of many repositiries
+Hello Everyone!
+
+The only numbers we havetoget acquainted with are 0 & 1.
